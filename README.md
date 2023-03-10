@@ -1,6 +1,6 @@
 # Lazy Loading Image Gallery
 
-Image Gallery App which uses lazy loading using [Intersection Observation API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) and fetches the lists of data from [Unsplash API](https://unsplash.com/developers). This app is created using [Vite](https://vitejs.dev/).
+This is an Image Gallery App that loads pictures from the [Unsplash API](https://unsplash.com/developers). It uses `lazy loading` to make the app faster and more responsive, and the `Intersection Observation API` to optimize the loading process and is built using `Vite`.
 
 ## Screenshots
 
